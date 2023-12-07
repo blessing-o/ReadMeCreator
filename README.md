@@ -3,9 +3,7 @@
 ## Description
 ReadMe Creator
 
-The ReadMe creator creates allows a user create a REadME
-
-The weather dashboard project was to asses our understanding of using the fetch api. We are to build a weather dashboard that shows the current temperature, humdity, wind as well as the future forecast for any given city.
+The ReadMe creator creates allows a user create a ReadME using the default readme template
 
 ## Installation
 
